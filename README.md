@@ -1,4 +1,4 @@
-# 🌦️ Weather Forecast App (Jupyter Notebook)
+# 🌦️ Weather Disaster Management AI AGENT
 
 This project is a simple weather forecasting app built using Python. It demonstrates how to retrieve and visualize current weather data using a public API inside a Jupyter Notebook environment.
 
